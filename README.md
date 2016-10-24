@@ -1,2 +1,2 @@
-# MVC-with-back-end-server
-Working on a very basic MVC project with an Windows Form and a back-end server together
+# Back-end-server for MVC and Windows Form project
+Working on a very basic project with an Windows Form, MVC website and a webservice.
